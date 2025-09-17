@@ -1,21 +1,14 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-</h1>
-
+<h2 align="center">👋 Hello! I'm Monier Ayman</h2>
 <p align="center">
-  Welcome to my GitHub! <br>
-  I'm <b>Monier Ayman</b>, a Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Egypt</b>, currently studying at <b>Suez Canal University</b> and building my journey step by step in <b>software engineering</b>.
+  <a href="https://www.linkedin.com/in/monier-ayman/">LinkedIn</a> •
+  <a href="https://codeforces.com/profile/Monier">Codeforces</a> •
+  <a href="https://github.com/Monier-Ayman">GitHub</a>
 </p>
 
----
-
-## 👨‍💻 About Me
-- 🎓 CS Student at Suez Canal University  
-- 💡 Passionate about **programming, algorithms, and problem-solving**  
-- 🔭 Working on **C++ projects**: To-Do List App, Quote App, and more  
-- 🏆 Preparing for **ICPC** and competitive programming on [Codeforces](https://codeforces.com/profile/Monier)  
-- 🚀 Exploring **software engineering concepts** and web development basics  
-- 💬 Ask me about **C++, data structures, and algorithms**
+- 🔭 I’m currently working on **C++ projects**: To-Do List App, Quote of the Day App, and more  
+- 💬 Ask me about **C++, data structures, algorithms, and problem-solving**  
+- 📫 How to reach me: [monierayman@gmail.com](mailto:monierayman@gmail.com)  
+- ⚡ Fun fact: Big fan of 🖥️ and programming challenges  
 
 ---
 
@@ -29,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-| <a href="https://github.com/Monier-Ayman"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Monier-Ayman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Monier's github stats" /></a> | <a href="https://github.com/Monier-Ayman"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monier-Ayman&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
 ## 🚀 Featured Projects
 <a href="https://github.com/Monier-Ayman/To_Do_List_Project"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monier-Ayman&repo=To_Do_List_Project&theme=buefy" />
@@ -42,6 +29,12 @@
 <a href="https://github.com/Monier-Ayman/Quote_of_the_Day_App"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monier-Ayman&repo=Quote_of_the_Day_App&theme=buefy" />
 </a>
+
+---
+
+## 📊 GitHub Stats
+| <a href="https://github.com/Monier-Ayman"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Monier-Ayman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/Monier-Ayman"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monier-Ayman&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
