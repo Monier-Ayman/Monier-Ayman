@@ -1,16 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! <br>
-I'm <b>Monier Ayman</b>, a Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Egypt</b>, currently building my journey in <b>software engineering</b>.</p>
-
----
-
-I'm **Monier Ayman**, a passionate Computer Science student from Egypt 🇪🇬 Currently studying at **Suez Canal University** and building my journey step by step in **software engineering**.
+I'm <b>Monier Ayman</b>, a Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> <b>Egypt</b>, currently studying at <b>Suez Canal University</b> and building my journey step by step in <b>software engineering</b>.</p>
 
 ---
 
 **About me**
-- 🎓 CS Student at Suez Canal University
 - 💡 Learning and building strong fundamentals in programming & problem-solving
 - 🔭 Currently working on **C++ projects** (To-Do List, Quote App, and more)
 - 🏆 Preparing for **ICPC** and competitive programming on [Codeforces](https://codeforces.com/profile/Monier)
@@ -25,9 +20,8 @@ I'm **Monier Ayman**, a passionate Computer Science student from Egypt 🇪🇬 
 <code><img height="20" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code> 
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code> 
 <code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code> 
-<code><img height="20" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code> 
+<code><img height="20" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 
----
 
 | <a href="https://github.com/Monier-Ayman"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Monier-Ayman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Monier's github stats" /></a> | <a href="https://github.com/Monier-Ayman"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monier-Ayman&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
