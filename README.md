@@ -10,7 +10,7 @@
 
 ### 🏆 Who I Am
 - 💻 Pupil @ Codeforces  
-- 🎓 CS Student at Suez Canal University  
+- 🎓 CS Student at [Suez Canal University](http://suez.edu.eg/ar/) 
 - 🧠 Algorithm & Problem-Solving Enthusiast  
 - 🔥 ICPC Trainee & Competitive Programmer  
 
