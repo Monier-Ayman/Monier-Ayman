@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monier-ayman/">LinkedIn</a> •
-  <a href="https://codeforces.com/profile/Monier">Codeforces</a> •
+  <a href="https://codeforces.com/profile/-Monier">Codeforces</a> •
 <a href="mailto:monierayman2007@gmail.com">Email</a>
 </p>
 
